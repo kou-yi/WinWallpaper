@@ -1,0 +1,12 @@
+﻿<Window x:Class="WallPaperTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WallPaperTest"
+        xmlns:cef="clr-namespace:CefSharp.Wpf;assembly=CefSharp.Wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="0" Width="0"
+        Loaded="Window_Loaded">
+    <cef:ChromiumWebBrowser Address="http://bilibili.com" Name="browser"/>
+</Window>

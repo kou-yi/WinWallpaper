@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallPaperTest", "WallPaperTest\WallPaperTest.csproj", "{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}.Debug|x64.ActiveCfg = Debug|x64
+		{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}.Debug|x64.Build.0 = Debug|x64
+		{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}.Release|x64.ActiveCfg = Release|x64
+		{F5CE1F68-0E24-4F65-BD29-9A02F17256CE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0971B4A9-D59F-4ABE-B23F-773097B0B223}
+	EndGlobalSection
+EndGlobal
