@@ -2,7 +2,7 @@
 
 ---
 
-参考了[](https://github.com/Yinmany/WinWallpaper)  
+参考了[Yinmany/WinWallpaper](https://github.com/Yinmany/WinWallpaper)  
 使用了cefSharp，可以浏览网页  
 加入了鼠标的Hook，判断鼠标是否在桌面再给cef传递事件  
 网页地址在项目的/WallPaperTest/MainWindow.xaml中可修改  
